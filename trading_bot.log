@@ -1,0 +1,10 @@
+2025-07-27 11:54:03,981 - INFO - Connected to Binance Testnet.
+2025-07-27 11:55:44,308 - INFO - Connected to Binance Testnet.
+2025-07-27 11:56:23,901 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-27 11:58:19,732 - INFO - Connected to Binance Testnet.
+2025-07-27 11:59:04,665 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-27 12:03:14,935 - INFO - Connected to Binance Testnet.
+2025-07-27 12:03:51,303 - INFO - Connected to Binance Testnet.
+2025-07-27 12:04:26,377 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-07-27 12:05:47,559 - INFO - Simulation mode ON — no real orders will be placed.
+2025-07-27 12:06:30,138 - INFO - [SIMULATED] Order params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'quantity': 0.001, 'type': 'LIMIT', 'price': '118200', 'timeInForce': 'GTC'}
